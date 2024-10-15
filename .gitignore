@@ -2,3 +2,4 @@
 **/output.txt
 **/solution
 .vscode/
+*.workspace

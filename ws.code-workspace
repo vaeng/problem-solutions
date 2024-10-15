@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"vector": "cpp",
+			"iostream": "cpp",
+			"*.tcc": "cpp",
+			"valarray": "cpp",
+			"chrono": "cpp"
+		},
+		"github.copilot.editor.enableAutoCompletions": false
+	}
+}
